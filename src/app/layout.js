@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./globals.css";
+import "./styles/globals.scss";
 
 export const metadata = {
   title: "Tronix Ecommerce Website",
